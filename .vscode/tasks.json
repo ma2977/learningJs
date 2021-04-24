@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "setup",
+            "type": "shell",
+            "command": "code --install-extension /workspace/learningJs/WallabyJs.quokka-vscode-1.0.359.vsix"
+        }
+    ]
+}

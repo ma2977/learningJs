@@ -8,5 +8,6 @@
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
     "editor.minimap.enabled": false,
-    "quokka.automaticRestart": true
+    "quokka.automaticRestart": true,
+    "explorer.sortOrder": "type"
 }
