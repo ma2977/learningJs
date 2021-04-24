@@ -109,3 +109,4 @@ else {
 }
 
 console.log(isLessThan10(11))
+console.log('isLessThan10(11)')
