@@ -1,2 +1,7 @@
 tasks:
-  - command: code --install-extension /workspace/learningJs/WallabyJs.quokka-vscode-1.0.359.vsix
+  - before: code --install-extension /workspace/learningJs/WallabyJs.quokka-vscode-1.0.359.vsix
+    init: code --install-extension /workspace/learningJs/WallabyJs.quokka-vscode-1.0.359.vsix
+    command: code --install-extension /workspace/learningJs/WallabyJs.quokka-vscode-1.0.359.vsix
+vscode:
+  extensions:
+    - wallabyjs.quokka-vscode
